@@ -1,0 +1,11 @@
+{"user_id":"u_0000000001","user_name":"admin","user_password":"^^mN8pQ2vX9zL4k$$","user_register_time":"01-01-2025_08:00:00","user_role":"admin"}
+{"user_id":"u_0000000002","user_name":"alex_nguyen","user_password":"^^rT5yU8iO1pA3s$$","user_register_time":"10-01-2025_09:15:12","user_role":"customer","user_email":"alex.nguyen@example.com","user_mobile":"0411223344"}
+{"user_id":"u_0000000003","user_name":"chloe_tran","user_password":"^^dF6gH9jK2lZ4x$$","user_register_time":"18-01-2025_14:22:05","user_role":"customer","user_email":"chloe.tran@example.com","user_mobile":"0422334455"}
+{"user_id":"u_0000000004","user_name":"liam_pham","user_password":"^^cV7bN0mQ3wE6r$$","user_register_time":"02-02-2025_11:40:38","user_role":"customer","user_email":"liam.pham@example.com","user_mobile":"0433445566"}
+{"user_id":"u_0000000005","user_name":"mia_le","user_password":"^^tY8uI1oP4aS7d$$","user_register_time":"14-02-2025_16:05:51","user_role":"customer","user_email":"mia.le@example.com","user_mobile":"0444556677"}
+{"user_id":"u_0000000006","user_name":"ethan_vo","user_password":"^^fG9hJ2kL5zX8c$$","user_register_time":"25-02-2025_10:18:24","user_role":"customer","user_email":"ethan.vo@example.com","user_mobile":"0455667788"}
+{"user_id":"u_0000000007","user_name":"sophia_dang","user_password":"^^vB0nM3qW6eR9t$$","user_register_time":"05-03-2025_15:47:19","user_role":"customer","user_email":"sophia.dang@example.com","user_mobile":"0466778899"}
+{"user_id":"u_0000000008","user_name":"noah_bui","user_password":"^^yU1iO4pA7sD0f$$","user_register_time":"19-03-2025_13:12:40","user_role":"customer","user_email":"noah.bui@example.com","user_mobile":"0477889900"}
+{"user_id":"u_0000000009","user_name":"ava_hoang","user_password":"^^gH2jK5lZ8xC1v$$","user_register_time":"01-04-2025_08:50:33","user_role":"customer","user_email":"ava.hoang@example.com","user_mobile":"0488990011"}
+{"user_id":"u_0000000010","user_name":"lucas_do","user_password":"^^bN3mQ6wE9rT2y$$","user_register_time":"12-04-2025_17:35:08","user_role":"customer","user_email":"lucas.do@example.com","user_mobile":"0499001122"}
+{"user_id":"u_0000000011","user_name":"manager","user_password":"^^uI4oP7aS0dF3g$$","user_register_time":"01-01-2025_09:30:00","user_role":"admin"}
